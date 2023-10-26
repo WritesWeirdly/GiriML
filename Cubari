@@ -36,6 +36,22 @@
         "ML": "/proxy/api/imgur/chapter/8mUNqhL/"
       },
       "last_updated": "1616368746"
+    },
+    "31": {
+      "title": "Chapter 31",
+      "volume": "5",
+      "groups": {
+        "ML": "/proxy/api/imgur/chapter/RWKH0qj/"
+      },
+      "last_updated": "1616368746"
+    },
+    "32": {
+      "title": "Chapter 32",
+      "volume": "5",
+      "groups": {
+        "ML": "/proxy/api/imgur/chapter/kqH9zZG/"
+      },
+      "last_updated": "1616368746"
     }
   }
 }

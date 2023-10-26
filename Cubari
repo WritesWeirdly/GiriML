@@ -1,0 +1,17 @@
+{
+  "title": "Girigiri Out",
+  "description": "Machine translated chapters of Girigiri Out, untouched by man.",
+  "artist": "Soumatou",
+  "author": "Soumatou",
+  "cover": "https://imgur.com/kmcc0v3.jpg",
+  "chapters": {
+    "27": {
+      "title": "Chapter 27",
+      "volume": "5",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/1CKJfdn/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
